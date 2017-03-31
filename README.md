@@ -1,15 +1,10 @@
+hasenbau meter based on
 thrx-arduino-home-project
 =========================
 
-arduino connector to emoncms for thrx home
+arduino connector to hager for hasenbau
 
-Done:
-* read data from easyMeter 
+To do:
+* read data from hager
 * send data to emoncms account
-
-ToDo:
-* read data from room temperature sensors 
-* read data from water state
-* read data from solar Piko 8.3
-
-
+* send data to blynk
